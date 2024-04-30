@@ -1,0 +1,3 @@
+module ECOMMERCEPLATFROM
+
+go 1.21.1
